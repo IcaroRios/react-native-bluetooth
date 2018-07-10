@@ -9,7 +9,7 @@ Más quando instalar a bibliioteca, em um projeto novo, usar:
   
   -npm install
   
-  -verificar se no android/build.grandle tem :dependencies{compile project(':react-native-bluetooth-serial')}
+  -verificar se no android/app/build.grandle tem :dependencies{compile project(':react-native-bluetooth-serial')}
   
   -adicionar no AndroidManifest.xml:     
   
