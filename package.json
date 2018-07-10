@@ -10,7 +10,8 @@
     "lodash": "^4.17.10",
     "react": "16.3.1",
     "react-native": "0.55.4",
-    "react-native-bluetooth-serial": "^1.0.0-rc1"
+    "react-native-bluetooth-serial": "^1.0.0-rc1",
+    "react-timer-mixin": "^0.13.3"
   },
   "devDependencies": {
     "babel-jest": "23.2.0",
