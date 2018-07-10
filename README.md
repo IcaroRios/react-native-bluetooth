@@ -11,9 +11,9 @@ Más quando instalar a bibliioteca, em um projeto novo, usar:
   
   -verificar se no android/build.grandle tem :dependencies{compile project(':react-native-bluetooth-serial')}
   
-  -adicionar no AndroidManifest.xml:     <uses-permission android:name="android.permission.BLUETOOTH" />
+  -adicionar no AndroidManifest.xml:     
   
-  
+                                         <uses-permission android:name="android.permission.BLUETOOTH" />
                                          <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
                                          
                                          
