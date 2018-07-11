@@ -24,4 +24,4 @@ Más quando instalar a bibliioteca, em um projeto novo, usar:
   - verificar o arquivo node_modules\react-native-bluetooth-    serial\android\src\main\java\com\rusel\RCTBluetoothSerial\RCTBluetoothSerialPackage.java
     remover o @override do método: createJSModules()
   
-           npm start -- --reset-cache
+    Em caso de erro       npm start -- --reset-cache e : cd android, ./gradlew clean
